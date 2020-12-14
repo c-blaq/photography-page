@@ -156,7 +156,7 @@ body {
 
  .portfolio__image {
     width: 100%;
-    /* height: 200px; */
+    height: 100%;
 }
 /* .btm-portfolio {
     display: flex;
@@ -370,10 +370,7 @@ body {
         left: 0;
         color: black;
     }
-    .portfolio-btn {
-        /* width: 65%; */
-
-    }
+    
     .section__collection-quote {
         padding: 10rem 0;
     }
